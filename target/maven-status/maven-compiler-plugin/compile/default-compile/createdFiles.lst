@@ -1,0 +1,7 @@
+sa/user/service/UserService.class
+sa/user/service/LdapService.class
+sa/user/model/User.class
+sa/user/resource/UserResource.class
+sa/user/JAXRSConfiguration.class
+sa/user/service/AuthService.class
+sa/user/resource/AuthResource.class
